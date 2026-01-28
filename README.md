@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abhijit a Computer Science Graduate!
+### Hi there 👋 I'm Abhijit a Computer Science Graduate!
 
 # Certifications
 ### Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=461C86D5DCEDEE46536FD389C47DE38E69EFECF684576A46580D418AA26B0D4B) | [View PDF](https://github.com/abbyrana/abbyrana/blob/main/certificates/2027-10-26%20OCI%20Gen%20AI%20Professional.pdf)
