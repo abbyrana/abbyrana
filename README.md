@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Abhijit
 
 # Certifications
-## Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | [Link]() | [View PDF]()
-Issuer: Oracle
-Expiry: Oct 26, 2027
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional - [Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=461C86D5DCEDEE46536FD389C47DE38E69EFECF684576A46580D418AA26B0D4B) - [View PDF](https://github.com/abbyrana/abbyrana/blob/main/certificates/2027-10-26%20OCI%20Gen%20AI%20Professional.pdf)**
+- Issuer: Oracle
+- Expiry: Oct 26, 2027
 
 
 # Accomplishments
-## [ICTCS 2025 Paper Contribution Certificate]()
-## [ICTCS 2025 Paper Presentor Certificate]()
+- [ICTCS 2025 Paper Contribution Certificate](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Contribution.pdf)
+- [ICTCS 2025 Paper Presentor Certificate](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Presentor.pdf)
 <!--
 **abbyrana/abbyrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
