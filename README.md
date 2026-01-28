@@ -6,9 +6,10 @@
 - **Expiry:** Oct 26, 2027
 
 
-# Accomplishments
-- [ICTCS 2025 Paper Contribution Certificate](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Contribution.pdf)
-- [ICTCS 2025 Paper Presentor Certificate](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Presentor.pdf)
+# Academic Achievements
+### Contribution Certificate - 10th International Conference on ICTCS (2025) | [View PDF](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Contribution.pdf)
+### Presentation Certificate - 10th International Conference on ICTCS (2025) | [View PDF](https://github.com/abbyrana/abbyrana/blob/main/certificates/ICTCS%202025%20Paper%20Presentor.pdf)
+
 <!--
 **abbyrana/abbyrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
